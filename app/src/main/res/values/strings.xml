@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Optus</string>
+    <string name ="scenario1" >Scenario 1</string>
+    <string name ="scenario2" >Scenario 2</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="item4">Item 4</string>
+    <string name="item5">Item 5</string>
+    <string name="txt_view1">TextView1</string>
+    <string name="txt_view2">TextView2</string>
+    <string name="txt_view3">TextView3</string>
+    <string name="red_txt">Red</string>
+    <string name="blue_txt">Blue</string>
+    <string name="green_txt">Green</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="fragment4">Fragment 4</string>
+    <string name="selected_txt">Selected item will be dispayed here</string>
+    <string name="transportmode">Mode of Transport:</string>
+    <string name="car">Car: </string>
+    <string name="train">Train: </string>
+    <string name="minutes">Mins</string>
+    <string name="navigate">Navigate</string>
+    <string name="destination">Select a destination: </string>
+
+</resources>

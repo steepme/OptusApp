@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-animated-vector-drawable-23.4.0_4f0b4bcb80b13e8d2185a12bcc8be3e3dad79a24.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-appcompat-v7-23.4.0_6825399d9513b7923d3d52e7dc9066118e55cb58.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-maps-9.2.1_f9c3b1a3c3cf42b871c17f50b7261d8d8d14d66f.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-tasks-9.2.1_ea4daa47ad4c571c82bf9f90d30f44a8bf7b52de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\library-1.0.19_e4d4f32d3883ba97a14b13406c5dce05ecf938b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\support-annotations-23.4.0_522c72ae3cff0b488723c27c59d1adc5cf87d2f6.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\internal_impl-23.4.0_a3464f6c9385be2a1b9182f39821f95a65554b07.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-support-v4-23.4.0_f1ce4d73dceb4a0b0d0545437d529f9372606022.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-animated-vector-drawable-23.4.0_3c979a126a78f9a9a654ae6a11c4e69404fb9b2a.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-base-9.2.1_7638632b6a1dd371b460886ecbdffa04a75088d2.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-maps-9.2.1_7f752229a30a537a1196d3a3b9d03666fc56e522.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-support-vector-drawable-23.4.0_d56423b89b8bb7427eefe0a8cf0bd48279f82065.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-appcompat-v7-23.4.0_aa50bdbb2ed46b47093a0c49a46c67b9622b98e3.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-tasks-9.2.1_088ae3de2de4bd8725c5dd8b8204ca7f627c47fe.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-base-9.2.1_676153516cae656e5b8520ae9ad7e63b2364e3ed.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="D:\Wipro\Workspace\OptusFinal\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-basement-9.2.1_04e64593cf4e1d4a1493d12f04cfcc5a4a1df97d.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.google.android.gms-play-services-basement-9.2.1_ab97ed9fbf3ce20c42c632f24cd5dae9207b6f03.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-support-v4-23.4.0_d0f394ac5806c89fe4c6f09bf35e0f964f0f13f1.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\internal_impl-23.4.0_1828a10eb4a88362dd2ca5a7f85e75ffa1b29bc4.jar" />
+    </item>
+    <item
+        jar="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Wipro\Workspace\OptusApp_9th_Aug\OptusApp\app\build\intermediates\pre-dexed\RELEASE\release\com.android.support-support-vector-drawable-23.4.0_043bb89bdb621f2085de94a67ba4dbbf6c7ed6cb.jar" />
+    </item>
+
+</items>

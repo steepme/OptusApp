@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scenario1"
+        android:id="@+id/textView"
+        android:textSize="18sp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="5dp" />
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/item1"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:background="@drawable/scroll_item_border"
+                android:text="@string/item1"/>
+
+            <TextView
+                android:id="@+id/item2"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:background="@drawable/scroll_item_border"
+                android:text="@string/item2"/>
+
+            <TextView
+                android:id="@+id/item3"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:background="@drawable/scroll_item_border"
+                android:text="@string/item3"/>
+
+            <TextView
+                android:id="@+id/item4"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:background="@drawable/scroll_item_border"
+                android:text="@string/item4"/>
+
+            <TextView
+                android:id="@+id/item5"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:background="@drawable/scroll_item_border"
+                android:text="@string/item5"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:weightSum="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/colorAccent"
+        android:layout_weight="0.5"
+        android:fillViewport="false">
+    </android.support.v4.view.ViewPager>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/view_pager"
+        android:layout_weight="0.5"
+        android:layout_marginStart="1dp"
+        android:background="@color/aqua_blue">
+
+        <TextView
+            android:id="@+id/txtview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:padding="3dp"
+            android:layout_marginTop="2dp"
+            android:text="@string/txt_view1"/>
+
+        <TextView
+            android:id="@+id/txtview2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="3dp"
+            android:layout_marginTop="1dp"
+            android:layout_below="@+id/txtview1"
+            android:text="@string/txt_view2"/>
+
+        <TextView
+            android:id="@+id/txtview3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:padding="3dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_below="@+id/txtview2"
+            android:text="@string/txt_view3"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_desc"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="@string/selected_txt"
+        android:layout_height="60dp" />
+
+    <RelativeLayout
+        android:id="@+id/color_panel"
+        android:layout_width="match_parent"
+        android:layout_marginTop="1dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/redBtn"
+            android:layout_width="100dp"
+            android:layout_marginStart="7dp"
+            android:layout_height="wrap_content"
+            android:text="@string/red_txt"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="7dp"
+            android:layout_alignParentStart="true"/>
+
+        <Button
+            android:id="@+id/blueBtn"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/blue_txt"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="7dp"/>
+
+        <Button
+            android:id="@+id/greenBtn"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="7dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="7dp"
+            android:text="@string/green_txt"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
